@@ -1,2 +1,2 @@
-# CANBus simulator
- Easy-concept CAN bus simulator
+# CUAnalyzer
+ Easy-concept CAN/LIN automotive network analyzer tool. Powered by Python.
