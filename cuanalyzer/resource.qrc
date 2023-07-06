@@ -3,6 +3,8 @@
         <file>qml/main.qml</file>
         <file>qml/pages/connectionPage.qml</file>
         <file>qml/controls/MenuBarCustomBtn.qml</file>
+        <file>qml/popups/SettingsPopup.qml</file>
+        <file>qml/popups/ConnectionPopup.qml</file>
     </qresource>
     <qresource prefix="/images">
         <file>assets/images/icons/settings.png</file>
