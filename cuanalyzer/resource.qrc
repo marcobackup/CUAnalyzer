@@ -1,2 +1,10 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/pages/connectionPage.qml</file>
+        <file>qml/controls/MenuBarCustomBtn.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>assets/images/icons/settings.png</file>
+    </qresource>
+</RCC>
