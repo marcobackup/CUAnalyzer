@@ -6,9 +6,9 @@
         <file>qml/popups/ConnectionPopup.qml</file>
         <file>qml/controls/MenuBarConnectionPage.qml</file>
         <file>qml/controls/MenuBarConnectedPage.qml</file>
-        <file>qml/controls/MenuBarBtnSeparator.qml</file>
     </qresource>
     <qresource prefix="/images">
         <file>assets/images/icons/settings.png</file>
+        <file>assets/images/logo.png</file>
     </qresource>
 </RCC>
